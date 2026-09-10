@@ -1,6 +1,5 @@
 import { GoogleGenAI } from '@google/genai';
 import http from 'http';
-import 'dotenv/config';
 
 const ai = new GoogleGenAI();
 
